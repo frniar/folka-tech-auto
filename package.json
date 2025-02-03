@@ -1,0 +1,21 @@
+{
+  "name": "folka-tech",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^132.0.2",
+    "mocha": "^11.1.0",
+    "selenium-webdriver": "^4.28.1"
+  },
+  "dependencies": {
+    "chai": "^5.1.2"
+  }
+}
